@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+ssh -i ~/.ssh/my_key ubuntu@98.82.11.205
